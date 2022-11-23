@@ -1,0 +1,2922 @@
+[
+  {
+    "": 0,
+    "Total Trips": 27,
+    "Trip Start Timestamp": "2021-01-01",
+    "Trip Miles": 9.08,
+    "Fare": 22.97,
+    "Tips": 2.98
+  },
+  {
+    "": 1,
+    "Total Trips": 82,
+    "Trip Start Timestamp": "2021-01-02",
+    "Trip Miles": 8.98,
+    "Fare": 23.75,
+    "Tips": 2.87
+  },
+  {
+    "": 2,
+    "Total Trips": 69,
+    "Trip Start Timestamp": "2021-01-03",
+    "Trip Miles": 10.86,
+    "Fare": 28.58,
+    "Tips": 3.95
+  },
+  {
+    "": 3,
+    "Total Trips": 345,
+    "Trip Start Timestamp": "2021-01-04",
+    "Trip Miles": 3.48,
+    "Fare": 11.9,
+    "Tips": 1.16
+  },
+  {
+    "": 4,
+    "Total Trips": 345,
+    "Trip Start Timestamp": "2021-01-05",
+    "Trip Miles": 2.66,
+    "Fare": 10.27,
+    "Tips": 0.88
+  },
+  {
+    "": 5,
+    "Total Trips": 250,
+    "Trip Start Timestamp": "2021-01-06",
+    "Trip Miles": 2.34,
+    "Fare": 9.8,
+    "Tips": 0.98
+  },
+  {
+    "": 6,
+    "Total Trips": 358,
+    "Trip Start Timestamp": "2021-01-07",
+    "Trip Miles": 2.52,
+    "Fare": 10.13,
+    "Tips": 1.03
+  },
+  {
+    "": 7,
+    "Total Trips": 336,
+    "Trip Start Timestamp": "2021-01-08",
+    "Trip Miles": 2.97,
+    "Fare": 11.17,
+    "Tips": 0.99
+  },
+  {
+    "": 8,
+    "Total Trips": 61,
+    "Trip Start Timestamp": "2021-01-09",
+    "Trip Miles": 6.87,
+    "Fare": 21.9,
+    "Tips": 2.48
+  },
+  {
+    "": 9,
+    "Total Trips": 41,
+    "Trip Start Timestamp": "2021-01-10",
+    "Trip Miles": 11.51,
+    "Fare": 30.03,
+    "Tips": 3.73
+  },
+  {
+    "": 10,
+    "Total Trips": 367,
+    "Trip Start Timestamp": "2021-01-11",
+    "Trip Miles": 2.67,
+    "Fare": 10.44,
+    "Tips": 1.13
+  },
+  {
+    "": 11,
+    "Total Trips": 323,
+    "Trip Start Timestamp": "2021-01-12",
+    "Trip Miles": 2.5,
+    "Fare": 9.89,
+    "Tips": 0.97
+  },
+  {
+    "": 12,
+    "Total Trips": 352,
+    "Trip Start Timestamp": "2021-01-13",
+    "Trip Miles": 2.05,
+    "Fare": 9.17,
+    "Tips": 0.95
+  },
+  {
+    "": 13,
+    "Total Trips": 498,
+    "Trip Start Timestamp": "2021-01-14",
+    "Trip Miles": 2.36,
+    "Fare": 10,
+    "Tips": 1.03
+  },
+  {
+    "": 14,
+    "Total Trips": 371,
+    "Trip Start Timestamp": "2021-01-15",
+    "Trip Miles": 2.64,
+    "Fare": 10.63,
+    "Tips": 1.35
+  },
+  {
+    "": 15,
+    "Total Trips": 43,
+    "Trip Start Timestamp": "2021-01-16",
+    "Trip Miles": 4.29,
+    "Fare": 14.8,
+    "Tips": 1.72
+  },
+  {
+    "": 16,
+    "Total Trips": 39,
+    "Trip Start Timestamp": "2021-01-17",
+    "Trip Miles": 9.22,
+    "Fare": 26.34,
+    "Tips": 3.31
+  },
+  {
+    "": 17,
+    "Total Trips": 239,
+    "Trip Start Timestamp": "2021-01-18",
+    "Trip Miles": 3.57,
+    "Fare": 12.77,
+    "Tips": 1.33
+  },
+  {
+    "": 18,
+    "Total Trips": 328,
+    "Trip Start Timestamp": "2021-01-19",
+    "Trip Miles": 1.92,
+    "Fare": 8.91,
+    "Tips": 0.82
+  },
+  {
+    "": 19,
+    "Total Trips": 282,
+    "Trip Start Timestamp": "2021-01-20",
+    "Trip Miles": 2.05,
+    "Fare": 8.98,
+    "Tips": 0.82
+  },
+  {
+    "": 20,
+    "Total Trips": 413,
+    "Trip Start Timestamp": "2021-01-21",
+    "Trip Miles": 1.92,
+    "Fare": 8.81,
+    "Tips": 1.08
+  },
+  {
+    "": 21,
+    "Total Trips": 481,
+    "Trip Start Timestamp": "2021-01-22",
+    "Trip Miles": 2.13,
+    "Fare": 10.99,
+    "Tips": 1.12
+  },
+  {
+    "": 22,
+    "Total Trips": 44,
+    "Trip Start Timestamp": "2021-01-23",
+    "Trip Miles": 4.28,
+    "Fare": 17.15,
+    "Tips": 2.38
+  },
+  {
+    "": 23,
+    "Total Trips": 35,
+    "Trip Start Timestamp": "2021-01-24",
+    "Trip Miles": 10.74,
+    "Fare": 30.21,
+    "Tips": 4.39
+  },
+  {
+    "": 24,
+    "Total Trips": 365,
+    "Trip Start Timestamp": "2021-01-25",
+    "Trip Miles": 2.76,
+    "Fare": 10.93,
+    "Tips": 1.02
+  },
+  {
+    "": 25,
+    "Total Trips": 296,
+    "Trip Start Timestamp": "2021-01-26",
+    "Trip Miles": 2.4,
+    "Fare": 9.17,
+    "Tips": 0.99
+  },
+  {
+    "": 26,
+    "Total Trips": 411,
+    "Trip Start Timestamp": "2021-01-27",
+    "Trip Miles": 2.44,
+    "Fare": 10.37,
+    "Tips": 1.06
+  },
+  {
+    "": 27,
+    "Total Trips": 524,
+    "Trip Start Timestamp": "2021-01-28",
+    "Trip Miles": 2.29,
+    "Fare": 9.25,
+    "Tips": 0.94
+  },
+  {
+    "": 28,
+    "Total Trips": 517,
+    "Trip Start Timestamp": "2021-01-29",
+    "Trip Miles": 2.29,
+    "Fare": 9.84,
+    "Tips": 1.1
+  },
+  {
+    "": 29,
+    "Total Trips": 80,
+    "Trip Start Timestamp": "2021-01-30",
+    "Trip Miles": 5,
+    "Fare": 15.61,
+    "Tips": 1.97
+  },
+  {
+    "": 30,
+    "Total Trips": 35,
+    "Trip Start Timestamp": "2021-01-31",
+    "Trip Miles": 9.3,
+    "Fare": 28.16,
+    "Tips": 3.6
+  },
+  {
+    "": 31,
+    "Total Trips": 378,
+    "Trip Start Timestamp": "2021-02-01",
+    "Trip Miles": 4,
+    "Fare": 11.54,
+    "Tips": 1.3
+  },
+  {
+    "": 32,
+    "Total Trips": 429,
+    "Trip Start Timestamp": "2021-02-02",
+    "Trip Miles": 2.25,
+    "Fare": 9.67,
+    "Tips": 0.89
+  },
+  {
+    "": 33,
+    "Total Trips": 432,
+    "Trip Start Timestamp": "2021-02-03",
+    "Trip Miles": 2.7,
+    "Fare": 10.5,
+    "Tips": 1.33
+  },
+  {
+    "": 34,
+    "Total Trips": 456,
+    "Trip Start Timestamp": "2021-02-04",
+    "Trip Miles": 2.16,
+    "Fare": 9.47,
+    "Tips": 0.95
+  },
+  {
+    "": 35,
+    "Total Trips": 484,
+    "Trip Start Timestamp": "2021-02-05",
+    "Trip Miles": 2.45,
+    "Fare": 9.88,
+    "Tips": 1.18
+  },
+  {
+    "": 36,
+    "Total Trips": 72,
+    "Trip Start Timestamp": "2021-02-06",
+    "Trip Miles": 4.87,
+    "Fare": 15.17,
+    "Tips": 1.88
+  },
+  {
+    "": 37,
+    "Total Trips": 59,
+    "Trip Start Timestamp": "2021-02-07",
+    "Trip Miles": 10.35,
+    "Fare": 29.86,
+    "Tips": 3.12
+  },
+  {
+    "": 38,
+    "Total Trips": 478,
+    "Trip Start Timestamp": "2021-02-08",
+    "Trip Miles": 3.72,
+    "Fare": 13.05,
+    "Tips": 1.67
+  },
+  {
+    "": 39,
+    "Total Trips": 443,
+    "Trip Start Timestamp": "2021-02-09",
+    "Trip Miles": 2.98,
+    "Fare": 11.58,
+    "Tips": 1.22
+  },
+  {
+    "": 40,
+    "Total Trips": 511,
+    "Trip Start Timestamp": "2021-02-10",
+    "Trip Miles": 2.1,
+    "Fare": 9.15,
+    "Tips": 0.96
+  },
+  {
+    "": 41,
+    "Total Trips": 640,
+    "Trip Start Timestamp": "2021-02-11",
+    "Trip Miles": 2.5,
+    "Fare": 10.41,
+    "Tips": 1.22
+  },
+  {
+    "": 42,
+    "Total Trips": 615,
+    "Trip Start Timestamp": "2021-02-12",
+    "Trip Miles": 3.04,
+    "Fare": 11.72,
+    "Tips": 1.33
+  },
+  {
+    "": 43,
+    "Total Trips": 329,
+    "Trip Start Timestamp": "2021-02-13",
+    "Trip Miles": 4.3,
+    "Fare": 14.62,
+    "Tips": 1.8
+  },
+  {
+    "": 44,
+    "Total Trips": 87,
+    "Trip Start Timestamp": "2021-02-14",
+    "Trip Miles": 9.83,
+    "Fare": 26.05,
+    "Tips": 3.29
+  },
+  {
+    "": 45,
+    "Total Trips": 317,
+    "Trip Start Timestamp": "2021-02-15",
+    "Trip Miles": 3.02,
+    "Fare": 11.53,
+    "Tips": 1.47
+  },
+  {
+    "": 46,
+    "Total Trips": 279,
+    "Trip Start Timestamp": "2021-02-16",
+    "Trip Miles": 3.96,
+    "Fare": 14.21,
+    "Tips": 1.83
+  },
+  {
+    "": 47,
+    "Total Trips": 502,
+    "Trip Start Timestamp": "2021-02-17",
+    "Trip Miles": 2.81,
+    "Fare": 10.88,
+    "Tips": 1.13
+  },
+  {
+    "": 48,
+    "Total Trips": 615,
+    "Trip Start Timestamp": "2021-02-18",
+    "Trip Miles": 2.4,
+    "Fare": 10,
+    "Tips": 1.23
+  },
+  {
+    "": 49,
+    "Total Trips": 581,
+    "Trip Start Timestamp": "2021-02-19",
+    "Trip Miles": 2.83,
+    "Fare": 11.27,
+    "Tips": 1.13
+  },
+  {
+    "": 50,
+    "Total Trips": 91,
+    "Trip Start Timestamp": "2021-02-20",
+    "Trip Miles": 4.78,
+    "Fare": 15.57,
+    "Tips": 1.82
+  },
+  {
+    "": 51,
+    "Total Trips": 51,
+    "Trip Start Timestamp": "2021-02-21",
+    "Trip Miles": 12.09,
+    "Fare": 31.2,
+    "Tips": 4.89
+  },
+  {
+    "": 52,
+    "Total Trips": 488,
+    "Trip Start Timestamp": "2021-02-22",
+    "Trip Miles": 3.01,
+    "Fare": 11.36,
+    "Tips": 1.38
+  },
+  {
+    "": 53,
+    "Total Trips": 541,
+    "Trip Start Timestamp": "2021-02-23",
+    "Trip Miles": 2.43,
+    "Fare": 10.22,
+    "Tips": 1.2
+  },
+  {
+    "": 54,
+    "Total Trips": 461,
+    "Trip Start Timestamp": "2021-02-24",
+    "Trip Miles": 2.48,
+    "Fare": 10.3,
+    "Tips": 1.13
+  },
+  {
+    "": 55,
+    "Total Trips": 589,
+    "Trip Start Timestamp": "2021-02-25",
+    "Trip Miles": 2.74,
+    "Fare": 10.84,
+    "Tips": 1.11
+  },
+  {
+    "": 56,
+    "Total Trips": 633,
+    "Trip Start Timestamp": "2021-02-26",
+    "Trip Miles": 2.8,
+    "Fare": 11.04,
+    "Tips": 1.1
+  },
+  {
+    "": 57,
+    "Total Trips": 149,
+    "Trip Start Timestamp": "2021-02-27",
+    "Trip Miles": 5.24,
+    "Fare": 16.42,
+    "Tips": 1.89
+  },
+  {
+    "": 58,
+    "Total Trips": 75,
+    "Trip Start Timestamp": "2021-02-28",
+    "Trip Miles": 9.14,
+    "Fare": 25.98,
+    "Tips": 3.33
+  },
+  {
+    "": 59,
+    "Total Trips": 505,
+    "Trip Start Timestamp": "2021-03-01",
+    "Trip Miles": 3.42,
+    "Fare": 12.46,
+    "Tips": 1.4
+  },
+  {
+    "": 60,
+    "Total Trips": 514,
+    "Trip Start Timestamp": "2021-03-02",
+    "Trip Miles": 2.74,
+    "Fare": 10.79,
+    "Tips": 1.25
+  },
+  {
+    "": 61,
+    "Total Trips": 577,
+    "Trip Start Timestamp": "2021-03-03",
+    "Trip Miles": 2.45,
+    "Fare": 10.38,
+    "Tips": 0.95
+  },
+  {
+    "": 62,
+    "Total Trips": 760,
+    "Trip Start Timestamp": "2021-03-04",
+    "Trip Miles": 2.34,
+    "Fare": 9.98,
+    "Tips": 1.07
+  },
+  {
+    "": 63,
+    "Total Trips": 647,
+    "Trip Start Timestamp": "2021-03-05",
+    "Trip Miles": 3.15,
+    "Fare": 11.85,
+    "Tips": 1.19
+  },
+  {
+    "": 64,
+    "Total Trips": 184,
+    "Trip Start Timestamp": "2021-03-06",
+    "Trip Miles": 4.81,
+    "Fare": 15.8,
+    "Tips": 2.13
+  },
+  {
+    "": 65,
+    "Total Trips": 94,
+    "Trip Start Timestamp": "2021-03-07",
+    "Trip Miles": 10.79,
+    "Fare": 30.06,
+    "Tips": 3.94
+  },
+  {
+    "": 66,
+    "Total Trips": 474,
+    "Trip Start Timestamp": "2021-03-08",
+    "Trip Miles": 3.79,
+    "Fare": 13.3,
+    "Tips": 1.61
+  },
+  {
+    "": 67,
+    "Total Trips": 514,
+    "Trip Start Timestamp": "2021-03-09",
+    "Trip Miles": 2.72,
+    "Fare": 10.94,
+    "Tips": 1.28
+  },
+  {
+    "": 68,
+    "Total Trips": 543,
+    "Trip Start Timestamp": "2021-03-10",
+    "Trip Miles": 3.06,
+    "Fare": 11.51,
+    "Tips": 1.34
+  },
+  {
+    "": 69,
+    "Total Trips": 582,
+    "Trip Start Timestamp": "2021-03-11",
+    "Trip Miles": 2.89,
+    "Fare": 11.27,
+    "Tips": 1.16
+  },
+  {
+    "": 70,
+    "Total Trips": 743,
+    "Trip Start Timestamp": "2021-03-12",
+    "Trip Miles": 2.95,
+    "Fare": 11.58,
+    "Tips": 1.49
+  },
+  {
+    "": 71,
+    "Total Trips": 389,
+    "Trip Start Timestamp": "2021-03-13",
+    "Trip Miles": 3.95,
+    "Fare": 13.89,
+    "Tips": 1.91
+  },
+  {
+    "": 72,
+    "Total Trips": 116,
+    "Trip Start Timestamp": "2021-03-14",
+    "Trip Miles": 11.5,
+    "Fare": 31.58,
+    "Tips": 4.2
+  },
+  {
+    "": 73,
+    "Total Trips": 716,
+    "Trip Start Timestamp": "2021-03-15",
+    "Trip Miles": 3.46,
+    "Fare": 12.43,
+    "Tips": 1.48
+  },
+  {
+    "": 74,
+    "Total Trips": 760,
+    "Trip Start Timestamp": "2021-03-16",
+    "Trip Miles": 2.96,
+    "Fare": 11.2,
+    "Tips": 1.29
+  },
+  {
+    "": 75,
+    "Total Trips": 909,
+    "Trip Start Timestamp": "2021-03-17",
+    "Trip Miles": 2.67,
+    "Fare": 10.67,
+    "Tips": 1.37
+  },
+  {
+    "": 76,
+    "Total Trips": 974,
+    "Trip Start Timestamp": "2021-03-18",
+    "Trip Miles": 3.14,
+    "Fare": 11.82,
+    "Tips": 1.42
+  },
+  {
+    "": 77,
+    "Total Trips": 970,
+    "Trip Start Timestamp": "2021-03-19",
+    "Trip Miles": 3.48,
+    "Fare": 12.73,
+    "Tips": 1.45
+  },
+  {
+    "": 78,
+    "Total Trips": 354,
+    "Trip Start Timestamp": "2021-03-20",
+    "Trip Miles": 3.94,
+    "Fare": 14.47,
+    "Tips": 1.74
+  },
+  {
+    "": 79,
+    "Total Trips": 182,
+    "Trip Start Timestamp": "2021-03-21",
+    "Trip Miles": 8.65,
+    "Fare": 25.47,
+    "Tips": 4.05
+  },
+  {
+    "": 80,
+    "Total Trips": 655,
+    "Trip Start Timestamp": "2021-03-22",
+    "Trip Miles": 3.69,
+    "Fare": 12.12,
+    "Tips": 1.44
+  },
+  {
+    "": 81,
+    "Total Trips": 755,
+    "Trip Start Timestamp": "2021-03-23",
+    "Trip Miles": 2.88,
+    "Fare": 11.43,
+    "Tips": 1.33
+  },
+  {
+    "": 82,
+    "Total Trips": 707,
+    "Trip Start Timestamp": "2021-03-24",
+    "Trip Miles": 2.97,
+    "Fare": 11.48,
+    "Tips": 1.43
+  },
+  {
+    "": 83,
+    "Total Trips": 964,
+    "Trip Start Timestamp": "2021-03-25",
+    "Trip Miles": 3.08,
+    "Fare": 11.68,
+    "Tips": 1.44
+  },
+  {
+    "": 84,
+    "Total Trips": 1018,
+    "Trip Start Timestamp": "2021-03-26",
+    "Trip Miles": 3.62,
+    "Fare": 13.29,
+    "Tips": 1.47
+  },
+  {
+    "": 85,
+    "Total Trips": 307,
+    "Trip Start Timestamp": "2021-03-27",
+    "Trip Miles": 5.02,
+    "Fare": 17.2,
+    "Tips": 2.32
+  },
+  {
+    "": 86,
+    "Total Trips": 201,
+    "Trip Start Timestamp": "2021-03-28",
+    "Trip Miles": 8.65,
+    "Fare": 25.49,
+    "Tips": 3.12
+  },
+  {
+    "": 87,
+    "Total Trips": 795,
+    "Trip Start Timestamp": "2021-03-29",
+    "Trip Miles": 3.94,
+    "Fare": 14.42,
+    "Tips": 1.66
+  },
+  {
+    "": 88,
+    "Total Trips": 780,
+    "Trip Start Timestamp": "2021-03-30",
+    "Trip Miles": 3.35,
+    "Fare": 12.89,
+    "Tips": 1.59
+  },
+  {
+    "": 89,
+    "Total Trips": 891,
+    "Trip Start Timestamp": "2021-03-31",
+    "Trip Miles": 3.27,
+    "Fare": 12.52,
+    "Tips": 1.41
+  },
+  {
+    "": 90,
+    "Total Trips": 1134,
+    "Trip Start Timestamp": "2021-04-01",
+    "Trip Miles": 3.62,
+    "Fare": 13.38,
+    "Tips": 1.51
+  },
+  {
+    "": 91,
+    "Total Trips": 958,
+    "Trip Start Timestamp": "2021-04-02",
+    "Trip Miles": 3.91,
+    "Fare": 14.12,
+    "Tips": 1.54
+  },
+  {
+    "": 92,
+    "Total Trips": 353,
+    "Trip Start Timestamp": "2021-04-03",
+    "Trip Miles": 4.98,
+    "Fare": 16.47,
+    "Tips": 1.8
+  },
+  {
+    "": 93,
+    "Total Trips": 176,
+    "Trip Start Timestamp": "2021-04-04",
+    "Trip Miles": 10.03,
+    "Fare": 28.23,
+    "Tips": 3.67
+  },
+  {
+    "": 94,
+    "Total Trips": 660,
+    "Trip Start Timestamp": "2021-04-05",
+    "Trip Miles": 3.91,
+    "Fare": 14.13,
+    "Tips": 1.61
+  },
+  {
+    "": 95,
+    "Total Trips": 777,
+    "Trip Start Timestamp": "2021-04-06",
+    "Trip Miles": 3.56,
+    "Fare": 13,
+    "Tips": 1.47
+  },
+  {
+    "": 96,
+    "Total Trips": 695,
+    "Trip Start Timestamp": "2021-04-07",
+    "Trip Miles": 3.58,
+    "Fare": 13.04,
+    "Tips": 1.46
+  },
+  {
+    "": 97,
+    "Total Trips": 1104,
+    "Trip Start Timestamp": "2021-04-08",
+    "Trip Miles": 3.51,
+    "Fare": 12.91,
+    "Tips": 1.63
+  },
+  {
+    "": 98,
+    "Total Trips": 980,
+    "Trip Start Timestamp": "2021-04-09",
+    "Trip Miles": 3.99,
+    "Fare": 14.58,
+    "Tips": 1.65
+  },
+  {
+    "": 99,
+    "Total Trips": 436,
+    "Trip Start Timestamp": "2021-04-10",
+    "Trip Miles": 4.09,
+    "Fare": 14.66,
+    "Tips": 1.9
+  },
+  {
+    "": 100,
+    "Total Trips": 185,
+    "Trip Start Timestamp": "2021-04-11",
+    "Trip Miles": 9.84,
+    "Fare": 27.67,
+    "Tips": 3.58
+  },
+  {
+    "": 101,
+    "Total Trips": 746,
+    "Trip Start Timestamp": "2021-04-12",
+    "Trip Miles": 4.42,
+    "Fare": 15.34,
+    "Tips": 1.75
+  },
+  {
+    "": 102,
+    "Total Trips": 816,
+    "Trip Start Timestamp": "2021-04-13",
+    "Trip Miles": 3.48,
+    "Fare": 12.67,
+    "Tips": 1.52
+  },
+  {
+    "": 103,
+    "Total Trips": 822,
+    "Trip Start Timestamp": "2021-04-14",
+    "Trip Miles": 3.5,
+    "Fare": 12.37,
+    "Tips": 1.46
+  },
+  {
+    "": 104,
+    "Total Trips": 995,
+    "Trip Start Timestamp": "2021-04-15",
+    "Trip Miles": 4.07,
+    "Fare": 14.25,
+    "Tips": 1.85
+  },
+  {
+    "": 105,
+    "Total Trips": 1158,
+    "Trip Start Timestamp": "2021-04-16",
+    "Trip Miles": 4.12,
+    "Fare": 14.87,
+    "Tips": 1.89
+  },
+  {
+    "": 106,
+    "Total Trips": 451,
+    "Trip Start Timestamp": "2021-04-17",
+    "Trip Miles": 4.84,
+    "Fare": 16.45,
+    "Tips": 1.87
+  },
+  {
+    "": 107,
+    "Total Trips": 259,
+    "Trip Start Timestamp": "2021-04-18",
+    "Trip Miles": 8.75,
+    "Fare": 25.56,
+    "Tips": 3.59
+  },
+  {
+    "": 108,
+    "Total Trips": 874,
+    "Trip Start Timestamp": "2021-04-19",
+    "Trip Miles": 4.11,
+    "Fare": 14.4,
+    "Tips": 1.71
+  },
+  {
+    "": 109,
+    "Total Trips": 862,
+    "Trip Start Timestamp": "2021-04-20",
+    "Trip Miles": 3.42,
+    "Fare": 12.78,
+    "Tips": 1.49
+  },
+  {
+    "": 110,
+    "Total Trips": 849,
+    "Trip Start Timestamp": "2021-04-21",
+    "Trip Miles": 3.49,
+    "Fare": 13.01,
+    "Tips": 1.73
+  },
+  {
+    "": 111,
+    "Total Trips": 1040,
+    "Trip Start Timestamp": "2021-04-22",
+    "Trip Miles": 4.28,
+    "Fare": 15.07,
+    "Tips": 1.79
+  },
+  {
+    "": 112,
+    "Total Trips": 1084,
+    "Trip Start Timestamp": "2021-04-23",
+    "Trip Miles": 4.18,
+    "Fare": 14.6,
+    "Tips": 1.74
+  },
+  {
+    "": 113,
+    "Total Trips": 419,
+    "Trip Start Timestamp": "2021-04-24",
+    "Trip Miles": 4.45,
+    "Fare": 15.25,
+    "Tips": 1.84
+  },
+  {
+    "": 114,
+    "Total Trips": 270,
+    "Trip Start Timestamp": "2021-04-25",
+    "Trip Miles": 8.57,
+    "Fare": 25.58,
+    "Tips": 3.7
+  },
+  {
+    "": 115,
+    "Total Trips": 824,
+    "Trip Start Timestamp": "2021-04-26",
+    "Trip Miles": 4.48,
+    "Fare": 15.22,
+    "Tips": 1.84
+  },
+  {
+    "": 116,
+    "Total Trips": 932,
+    "Trip Start Timestamp": "2021-04-27",
+    "Trip Miles": 3.47,
+    "Fare": 18.49,
+    "Tips": 1.49
+  },
+  {
+    "": 117,
+    "Total Trips": 1019,
+    "Trip Start Timestamp": "2021-04-28",
+    "Trip Miles": 3.39,
+    "Fare": 12.57,
+    "Tips": 1.62
+  },
+  {
+    "": 118,
+    "Total Trips": 1062,
+    "Trip Start Timestamp": "2021-04-29",
+    "Trip Miles": 4.22,
+    "Fare": 14.71,
+    "Tips": 1.71
+  },
+  {
+    "": 119,
+    "Total Trips": 1219,
+    "Trip Start Timestamp": "2021-04-30",
+    "Trip Miles": 4.74,
+    "Fare": 16.27,
+    "Tips": 1.86
+  },
+  {
+    "": 120,
+    "Total Trips": 608,
+    "Trip Start Timestamp": "2021-05-01",
+    "Trip Miles": 4.76,
+    "Fare": 16.32,
+    "Tips": 1.93
+  },
+  {
+    "": 121,
+    "Total Trips": 440,
+    "Trip Start Timestamp": "2021-05-02",
+    "Trip Miles": 7.79,
+    "Fare": 35.97,
+    "Tips": 3.39
+  },
+  {
+    "": 122,
+    "Total Trips": 967,
+    "Trip Start Timestamp": "2021-05-03",
+    "Trip Miles": 4.78,
+    "Fare": 25.11,
+    "Tips": 1.87
+  },
+  {
+    "": 123,
+    "Total Trips": 943,
+    "Trip Start Timestamp": "2021-05-04",
+    "Trip Miles": 3.74,
+    "Fare": 13.34,
+    "Tips": 1.68
+  },
+  {
+    "": 124,
+    "Total Trips": 1032,
+    "Trip Start Timestamp": "2021-05-05",
+    "Trip Miles": 3.8,
+    "Fare": 14.26,
+    "Tips": 1.73
+  },
+  {
+    "": 125,
+    "Total Trips": 1358,
+    "Trip Start Timestamp": "2021-05-06",
+    "Trip Miles": 4.24,
+    "Fare": 14.84,
+    "Tips": 2.05
+  },
+  {
+    "": 126,
+    "Total Trips": 1521,
+    "Trip Start Timestamp": "2021-05-07",
+    "Trip Miles": 4.66,
+    "Fare": 16.25,
+    "Tips": 2.05
+  },
+  {
+    "": 127,
+    "Total Trips": 798,
+    "Trip Start Timestamp": "2021-05-08",
+    "Trip Miles": 3.91,
+    "Fare": 14.17,
+    "Tips": 1.76
+  },
+  {
+    "": 128,
+    "Total Trips": 413,
+    "Trip Start Timestamp": "2021-05-09",
+    "Trip Miles": 8.19,
+    "Fare": 24.15,
+    "Tips": 3.13
+  },
+  {
+    "": 129,
+    "Total Trips": 1082,
+    "Trip Start Timestamp": "2021-05-10",
+    "Trip Miles": 5.06,
+    "Fare": 16.87,
+    "Tips": 2.2
+  },
+  {
+    "": 130,
+    "Total Trips": 1037,
+    "Trip Start Timestamp": "2021-05-11",
+    "Trip Miles": 3.89,
+    "Fare": 13.96,
+    "Tips": 1.74
+  },
+  {
+    "": 131,
+    "Total Trips": 1076,
+    "Trip Start Timestamp": "2021-05-12",
+    "Trip Miles": 4.5,
+    "Fare": 15.47,
+    "Tips": 1.9
+  },
+  {
+    "": 132,
+    "Total Trips": 1228,
+    "Trip Start Timestamp": "2021-05-13",
+    "Trip Miles": 5.13,
+    "Fare": 16.61,
+    "Tips": 2.21
+  },
+  {
+    "": 133,
+    "Total Trips": 1711,
+    "Trip Start Timestamp": "2021-05-14",
+    "Trip Miles": 4.85,
+    "Fare": 16.72,
+    "Tips": 2.23
+  },
+  {
+    "": 134,
+    "Total Trips": 886,
+    "Trip Start Timestamp": "2021-05-15",
+    "Trip Miles": 4.83,
+    "Fare": 16.38,
+    "Tips": 2.16
+  },
+  {
+    "": 135,
+    "Total Trips": 537,
+    "Trip Start Timestamp": "2021-05-16",
+    "Trip Miles": 9.37,
+    "Fare": 28.23,
+    "Tips": 3.66
+  },
+  {
+    "": 136,
+    "Total Trips": 1181,
+    "Trip Start Timestamp": "2021-05-17",
+    "Trip Miles": 5.21,
+    "Fare": 17.26,
+    "Tips": 2.21
+  },
+  {
+    "": 137,
+    "Total Trips": 1187,
+    "Trip Start Timestamp": "2021-05-18",
+    "Trip Miles": 4.27,
+    "Fare": 15.07,
+    "Tips": 1.94
+  },
+  {
+    "": 138,
+    "Total Trips": 1370,
+    "Trip Start Timestamp": "2021-05-19",
+    "Trip Miles": 4.12,
+    "Fare": 14.34,
+    "Tips": 1.86
+  },
+  {
+    "": 139,
+    "Total Trips": 1590,
+    "Trip Start Timestamp": "2021-05-20",
+    "Trip Miles": 4.6,
+    "Fare": 15.77,
+    "Tips": 2.01
+  },
+  {
+    "": 140,
+    "Total Trips": 1770,
+    "Trip Start Timestamp": "2021-05-21",
+    "Trip Miles": 4.9,
+    "Fare": 16.54,
+    "Tips": 2.15
+  },
+  {
+    "": 141,
+    "Total Trips": 1114,
+    "Trip Start Timestamp": "2021-05-22",
+    "Trip Miles": 4.69,
+    "Fare": 16.39,
+    "Tips": 2.01
+  },
+  {
+    "": 142,
+    "Total Trips": 559,
+    "Trip Start Timestamp": "2021-05-23",
+    "Trip Miles": 9.11,
+    "Fare": 27.24,
+    "Tips": 3.65
+  },
+  {
+    "": 143,
+    "Total Trips": 1211,
+    "Trip Start Timestamp": "2021-05-24",
+    "Trip Miles": 4.94,
+    "Fare": 16.55,
+    "Tips": 2.26
+  },
+  {
+    "": 144,
+    "Total Trips": 1354,
+    "Trip Start Timestamp": "2021-05-25",
+    "Trip Miles": 4.1,
+    "Fare": 14.5,
+    "Tips": 1.83
+  },
+  {
+    "": 145,
+    "Total Trips": 1308,
+    "Trip Start Timestamp": "2021-05-26",
+    "Trip Miles": 4.31,
+    "Fare": 15.25,
+    "Tips": 1.93
+  },
+  {
+    "": 146,
+    "Total Trips": 1751,
+    "Trip Start Timestamp": "2021-05-27",
+    "Trip Miles": 4.43,
+    "Fare": 15.3,
+    "Tips": 2.04
+  },
+  {
+    "": 147,
+    "Total Trips": 2375,
+    "Trip Start Timestamp": "2021-05-28",
+    "Trip Miles": 4.48,
+    "Fare": 15.88,
+    "Tips": 2.06
+  },
+  {
+    "": 148,
+    "Total Trips": 1351,
+    "Trip Start Timestamp": "2021-05-29",
+    "Trip Miles": 3.93,
+    "Fare": 14.5,
+    "Tips": 1.91
+  },
+  {
+    "": 149,
+    "Total Trips": 972,
+    "Trip Start Timestamp": "2021-05-30",
+    "Trip Miles": 5.33,
+    "Fare": 17.61,
+    "Tips": 2.27
+  },
+  {
+    "": 150,
+    "Total Trips": 821,
+    "Trip Start Timestamp": "2021-05-31",
+    "Trip Miles": 8.13,
+    "Fare": 24.68,
+    "Tips": 3.01
+  },
+  {
+    "": 151,
+    "Total Trips": 1578,
+    "Trip Start Timestamp": "2021-06-01",
+    "Trip Miles": 5.32,
+    "Fare": 17.43,
+    "Tips": 2.45
+  },
+  {
+    "": 152,
+    "Total Trips": 1516,
+    "Trip Start Timestamp": "2021-06-02",
+    "Trip Miles": 4.77,
+    "Fare": 16.41,
+    "Tips": 2.32
+  },
+  {
+    "": 153,
+    "Total Trips": 1925,
+    "Trip Start Timestamp": "2021-06-03",
+    "Trip Miles": 4.76,
+    "Fare": 16.06,
+    "Tips": 2.13
+  },
+  {
+    "": 154,
+    "Total Trips": 2299,
+    "Trip Start Timestamp": "2021-06-04",
+    "Trip Miles": 4.59,
+    "Fare": 16.03,
+    "Tips": 2.15
+  },
+  {
+    "": 155,
+    "Total Trips": 1399,
+    "Trip Start Timestamp": "2021-06-05",
+    "Trip Miles": 4.8,
+    "Fare": 15.79,
+    "Tips": 2.03
+  },
+  {
+    "": 156,
+    "Total Trips": 950,
+    "Trip Start Timestamp": "2021-06-06",
+    "Trip Miles": 7.22,
+    "Fare": 22.92,
+    "Tips": 3.31
+  },
+  {
+    "": 157,
+    "Total Trips": 1727,
+    "Trip Start Timestamp": "2021-06-07",
+    "Trip Miles": 4.8,
+    "Fare": 16.66,
+    "Tips": 2.23
+  },
+  {
+    "": 158,
+    "Total Trips": 1683,
+    "Trip Start Timestamp": "2021-06-08",
+    "Trip Miles": 4.99,
+    "Fare": 16.7,
+    "Tips": 2.25
+  },
+  {
+    "": 159,
+    "Total Trips": 1905,
+    "Trip Start Timestamp": "2021-06-09",
+    "Trip Miles": 4.74,
+    "Fare": 16.17,
+    "Tips": 2.24
+  },
+  {
+    "": 160,
+    "Total Trips": 2812,
+    "Trip Start Timestamp": "2021-06-10",
+    "Trip Miles": 5.63,
+    "Fare": 19.48,
+    "Tips": 2.62
+  },
+  {
+    "": 161,
+    "Total Trips": 3259,
+    "Trip Start Timestamp": "2021-06-11",
+    "Trip Miles": 5.36,
+    "Fare": 17.92,
+    "Tips": 2.56
+  },
+  {
+    "": 162,
+    "Total Trips": 2030,
+    "Trip Start Timestamp": "2021-06-12",
+    "Trip Miles": 4.51,
+    "Fare": 15.82,
+    "Tips": 2.15
+  },
+  {
+    "": 163,
+    "Total Trips": 1391,
+    "Trip Start Timestamp": "2021-06-13",
+    "Trip Miles": 8.39,
+    "Fare": 25.17,
+    "Tips": 3.45
+  },
+  {
+    "": 164,
+    "Total Trips": 2145,
+    "Trip Start Timestamp": "2021-06-14",
+    "Trip Miles": 5.61,
+    "Fare": 18.31,
+    "Tips": 2.43
+  },
+  {
+    "": 165,
+    "Total Trips": 2120,
+    "Trip Start Timestamp": "2021-06-15",
+    "Trip Miles": 4.97,
+    "Fare": 16.96,
+    "Tips": 2.44
+  },
+  {
+    "": 166,
+    "Total Trips": 2169,
+    "Trip Start Timestamp": "2021-06-16",
+    "Trip Miles": 5.15,
+    "Fare": 16.57,
+    "Tips": 2.33
+  },
+  {
+    "": 167,
+    "Total Trips": 2765,
+    "Trip Start Timestamp": "2021-06-17",
+    "Trip Miles": 5.09,
+    "Fare": 17.14,
+    "Tips": 2.44
+  },
+  {
+    "": 168,
+    "Total Trips": 2904,
+    "Trip Start Timestamp": "2021-06-18",
+    "Trip Miles": 5.07,
+    "Fare": 17.25,
+    "Tips": 2.4
+  },
+  {
+    "": 169,
+    "Total Trips": 2009,
+    "Trip Start Timestamp": "2021-06-19",
+    "Trip Miles": 4.34,
+    "Fare": 15.47,
+    "Tips": 2.06
+  },
+  {
+    "": 170,
+    "Total Trips": 1194,
+    "Trip Start Timestamp": "2021-06-20",
+    "Trip Miles": 7.95,
+    "Fare": 24.81,
+    "Tips": 3.54
+  },
+  {
+    "": 171,
+    "Total Trips": 2237,
+    "Trip Start Timestamp": "2021-06-21",
+    "Trip Miles": 6.34,
+    "Fare": 20.04,
+    "Tips": 3
+  },
+  {
+    "": 172,
+    "Total Trips": 2446,
+    "Trip Start Timestamp": "2021-06-22",
+    "Trip Miles": 4.71,
+    "Fare": 16.43,
+    "Tips": 2.31
+  },
+  {
+    "": 173,
+    "Total Trips": 2455,
+    "Trip Start Timestamp": "2021-06-23",
+    "Trip Miles": 4.8,
+    "Fare": 16.45,
+    "Tips": 2.39
+  },
+  {
+    "": 174,
+    "Total Trips": 3029,
+    "Trip Start Timestamp": "2021-06-24",
+    "Trip Miles": 4.76,
+    "Fare": 16.52,
+    "Tips": 2.39
+  },
+  {
+    "": 175,
+    "Total Trips": 3294,
+    "Trip Start Timestamp": "2021-06-25",
+    "Trip Miles": 5.18,
+    "Fare": 19.47,
+    "Tips": 2.35
+  },
+  {
+    "": 176,
+    "Total Trips": 1787,
+    "Trip Start Timestamp": "2021-06-26",
+    "Trip Miles": 4.74,
+    "Fare": 16.56,
+    "Tips": 2.22
+  },
+  {
+    "": 177,
+    "Total Trips": 1361,
+    "Trip Start Timestamp": "2021-06-27",
+    "Trip Miles": 7.74,
+    "Fare": 24.13,
+    "Tips": 3.28
+  },
+  {
+    "": 178,
+    "Total Trips": 2140,
+    "Trip Start Timestamp": "2021-06-28",
+    "Trip Miles": 5.05,
+    "Fare": 16.95,
+    "Tips": 2.27
+  },
+  {
+    "": 179,
+    "Total Trips": 2177,
+    "Trip Start Timestamp": "2021-06-29",
+    "Trip Miles": 4.04,
+    "Fare": 14.34,
+    "Tips": 1.98
+  },
+  {
+    "": 180,
+    "Total Trips": 2251,
+    "Trip Start Timestamp": "2021-06-30",
+    "Trip Miles": 4.25,
+    "Fare": 15.01,
+    "Tips": 2.1
+  },
+  {
+    "": 181,
+    "Total Trips": 2382,
+    "Trip Start Timestamp": "2021-07-01",
+    "Trip Miles": 4.86,
+    "Fare": 16.61,
+    "Tips": 2.15
+  },
+  {
+    "": 182,
+    "Total Trips": 2553,
+    "Trip Start Timestamp": "2021-07-02",
+    "Trip Miles": 4.95,
+    "Fare": 16.76,
+    "Tips": 2.08
+  },
+  {
+    "": 183,
+    "Total Trips": 1959,
+    "Trip Start Timestamp": "2021-07-03",
+    "Trip Miles": 4.11,
+    "Fare": 14.85,
+    "Tips": 1.71
+  },
+  {
+    "": 184,
+    "Total Trips": 1283,
+    "Trip Start Timestamp": "2021-07-04",
+    "Trip Miles": 4.7,
+    "Fare": 16.6,
+    "Tips": 1.84
+  },
+  {
+    "": 185,
+    "Total Trips": 1907,
+    "Trip Start Timestamp": "2021-07-05",
+    "Trip Miles": 6.84,
+    "Fare": 21.09,
+    "Tips": 2.76
+  },
+  {
+    "": 186,
+    "Total Trips": 2595,
+    "Trip Start Timestamp": "2021-07-06",
+    "Trip Miles": 5.04,
+    "Fare": 16.9,
+    "Tips": 2.38
+  },
+  {
+    "": 187,
+    "Total Trips": 2881,
+    "Trip Start Timestamp": "2021-07-07",
+    "Trip Miles": 4.96,
+    "Fare": 16.69,
+    "Tips": 2.21
+  },
+  {
+    "": 188,
+    "Total Trips": 3409,
+    "Trip Start Timestamp": "2021-07-08",
+    "Trip Miles": 5.31,
+    "Fare": 17.49,
+    "Tips": 2.41
+  },
+  {
+    "": 189,
+    "Total Trips": 4376,
+    "Trip Start Timestamp": "2021-07-09",
+    "Trip Miles": 4.87,
+    "Fare": 16.84,
+    "Tips": 2.25
+  },
+  {
+    "": 190,
+    "Total Trips": 2637,
+    "Trip Start Timestamp": "2021-07-10",
+    "Trip Miles": 4.97,
+    "Fare": 17.22,
+    "Tips": 2.31
+  },
+  {
+    "": 191,
+    "Total Trips": 1942,
+    "Trip Start Timestamp": "2021-07-11",
+    "Trip Miles": 7.85,
+    "Fare": 33.46,
+    "Tips": 3.46
+  },
+  {
+    "": 192,
+    "Total Trips": 2820,
+    "Trip Start Timestamp": "2021-07-12",
+    "Trip Miles": 6.49,
+    "Fare": 20.31,
+    "Tips": 2.94
+  },
+  {
+    "": 193,
+    "Total Trips": 3054,
+    "Trip Start Timestamp": "2021-07-13",
+    "Trip Miles": 5.44,
+    "Fare": 17.65,
+    "Tips": 2.71
+  },
+  {
+    "": 194,
+    "Total Trips": 3293,
+    "Trip Start Timestamp": "2021-07-14",
+    "Trip Miles": 4.96,
+    "Fare": 16.81,
+    "Tips": 2.58
+  },
+  {
+    "": 195,
+    "Total Trips": 3847,
+    "Trip Start Timestamp": "2021-07-15",
+    "Trip Miles": 5.63,
+    "Fare": 18.57,
+    "Tips": 2.66
+  },
+  {
+    "": 196,
+    "Total Trips": 4104,
+    "Trip Start Timestamp": "2021-07-16",
+    "Trip Miles": 5.28,
+    "Fare": 17.46,
+    "Tips": 2.43
+  },
+  {
+    "": 197,
+    "Total Trips": 2571,
+    "Trip Start Timestamp": "2021-07-17",
+    "Trip Miles": 4.28,
+    "Fare": 18.39,
+    "Tips": 1.96
+  },
+  {
+    "": 198,
+    "Total Trips": 1942,
+    "Trip Start Timestamp": "2021-07-18",
+    "Trip Miles": 7.94,
+    "Fare": 24.67,
+    "Tips": 3.44
+  },
+  {
+    "": 199,
+    "Total Trips": 3063,
+    "Trip Start Timestamp": "2021-07-19",
+    "Trip Miles": 5.89,
+    "Fare": 20.59,
+    "Tips": 2.82
+  },
+  {
+    "": 200,
+    "Total Trips": 3041,
+    "Trip Start Timestamp": "2021-07-20",
+    "Trip Miles": 5.31,
+    "Fare": 17.67,
+    "Tips": 2.64
+  },
+  {
+    "": 201,
+    "Total Trips": 3483,
+    "Trip Start Timestamp": "2021-07-21",
+    "Trip Miles": 5.31,
+    "Fare": 22.5,
+    "Tips": 2.69
+  },
+  {
+    "": 202,
+    "Total Trips": 4016,
+    "Trip Start Timestamp": "2021-07-22",
+    "Trip Miles": 5.47,
+    "Fare": 17.94,
+    "Tips": 2.63
+  },
+  {
+    "": 203,
+    "Total Trips": 4406,
+    "Trip Start Timestamp": "2021-07-23",
+    "Trip Miles": 5.07,
+    "Fare": 17.36,
+    "Tips": 2.34
+  },
+  {
+    "": 204,
+    "Total Trips": 2941,
+    "Trip Start Timestamp": "2021-07-24",
+    "Trip Miles": 4.31,
+    "Fare": 16.63,
+    "Tips": 2.05
+  },
+  {
+    "": 205,
+    "Total Trips": 2122,
+    "Trip Start Timestamp": "2021-07-25",
+    "Trip Miles": 8.24,
+    "Fare": 25.66,
+    "Tips": 3.75
+  },
+  {
+    "": 206,
+    "Total Trips": 3108,
+    "Trip Start Timestamp": "2021-07-26",
+    "Trip Miles": 5.99,
+    "Fare": 19.84,
+    "Tips": 2.9
+  },
+  {
+    "": 207,
+    "Total Trips": 3197,
+    "Trip Start Timestamp": "2021-07-27",
+    "Trip Miles": 5.65,
+    "Fare": 18.72,
+    "Tips": 2.68
+  },
+  {
+    "": 208,
+    "Total Trips": 4022,
+    "Trip Start Timestamp": "2021-07-28",
+    "Trip Miles": 5.74,
+    "Fare": 19.01,
+    "Tips": 2.88
+  },
+  {
+    "": 209,
+    "Total Trips": 4238,
+    "Trip Start Timestamp": "2021-07-29",
+    "Trip Miles": 5.64,
+    "Fare": 18.87,
+    "Tips": 2.87
+  },
+  {
+    "": 210,
+    "Total Trips": 3924,
+    "Trip Start Timestamp": "2021-07-30",
+    "Trip Miles": 5.46,
+    "Fare": 18.64,
+    "Tips": 2.6
+  },
+  {
+    "": 211,
+    "Total Trips": 2542,
+    "Trip Start Timestamp": "2021-07-31",
+    "Trip Miles": 4.95,
+    "Fare": 17.03,
+    "Tips": 2.26
+  },
+  {
+    "": 212,
+    "Total Trips": 2199,
+    "Trip Start Timestamp": "2021-08-01",
+    "Trip Miles": 8.04,
+    "Fare": 26.07,
+    "Tips": 3.53
+  },
+  {
+    "": 213,
+    "Total Trips": 2787,
+    "Trip Start Timestamp": "2021-08-02",
+    "Trip Miles": 6.99,
+    "Fare": 21.91,
+    "Tips": 3.17
+  },
+  {
+    "": 214,
+    "Total Trips": 2707,
+    "Trip Start Timestamp": "2021-08-03",
+    "Trip Miles": 5.17,
+    "Fare": 17.07,
+    "Tips": 2.5
+  },
+  {
+    "": 215,
+    "Total Trips": 3219,
+    "Trip Start Timestamp": "2021-08-04",
+    "Trip Miles": 5.87,
+    "Fare": 16.51,
+    "Tips": 2.43
+  },
+  {
+    "": 216,
+    "Total Trips": 4170,
+    "Trip Start Timestamp": "2021-08-05",
+    "Trip Miles": 5.33,
+    "Fare": 19.35,
+    "Tips": 2.68
+  },
+  {
+    "": 217,
+    "Total Trips": 4777,
+    "Trip Start Timestamp": "2021-08-06",
+    "Trip Miles": 5.07,
+    "Fare": 17.43,
+    "Tips": 2.53
+  },
+  {
+    "": 218,
+    "Total Trips": 3288,
+    "Trip Start Timestamp": "2021-08-07",
+    "Trip Miles": 5,
+    "Fare": 22.15,
+    "Tips": 2.32
+  },
+  {
+    "": 219,
+    "Total Trips": 2022,
+    "Trip Start Timestamp": "2021-08-08",
+    "Trip Miles": 8.82,
+    "Fare": 28.75,
+    "Tips": 3.86
+  },
+  {
+    "": 220,
+    "Total Trips": 2808,
+    "Trip Start Timestamp": "2021-08-09",
+    "Trip Miles": 5.62,
+    "Fare": 18.47,
+    "Tips": 2.52
+  },
+  {
+    "": 221,
+    "Total Trips": 3452,
+    "Trip Start Timestamp": "2021-08-10",
+    "Trip Miles": 5.49,
+    "Fare": 17.89,
+    "Tips": 2.68
+  },
+  {
+    "": 222,
+    "Total Trips": 3452,
+    "Trip Start Timestamp": "2021-08-11",
+    "Trip Miles": 5.49,
+    "Fare": 19.17,
+    "Tips": 2.61
+  },
+  {
+    "": 223,
+    "Total Trips": 3735,
+    "Trip Start Timestamp": "2021-08-12",
+    "Trip Miles": 5.45,
+    "Fare": 17.86,
+    "Tips": 2.66
+  },
+  {
+    "": 224,
+    "Total Trips": 4103,
+    "Trip Start Timestamp": "2021-08-13",
+    "Trip Miles": 5.24,
+    "Fare": 17.34,
+    "Tips": 2.43
+  },
+  {
+    "": 225,
+    "Total Trips": 2877,
+    "Trip Start Timestamp": "2021-08-14",
+    "Trip Miles": 4.54,
+    "Fare": 18.19,
+    "Tips": 2.2
+  },
+  {
+    "": 226,
+    "Total Trips": 1974,
+    "Trip Start Timestamp": "2021-08-15",
+    "Trip Miles": 8.56,
+    "Fare": 26.33,
+    "Tips": 3.79
+  },
+  {
+    "": 227,
+    "Total Trips": 2582,
+    "Trip Start Timestamp": "2021-08-16",
+    "Trip Miles": 6.18,
+    "Fare": 20.54,
+    "Tips": 2.8
+  },
+  {
+    "": 228,
+    "Total Trips": 2694,
+    "Trip Start Timestamp": "2021-08-17",
+    "Trip Miles": 4.75,
+    "Fare": 15.93,
+    "Tips": 2.31
+  },
+  {
+    "": 229,
+    "Total Trips": 3013,
+    "Trip Start Timestamp": "2021-08-18",
+    "Trip Miles": 4.75,
+    "Fare": 16.06,
+    "Tips": 2.27
+  },
+  {
+    "": 230,
+    "Total Trips": 3808,
+    "Trip Start Timestamp": "2021-08-19",
+    "Trip Miles": 5.33,
+    "Fare": 17.69,
+    "Tips": 2.55
+  },
+  {
+    "": 231,
+    "Total Trips": 4656,
+    "Trip Start Timestamp": "2021-08-20",
+    "Trip Miles": 5.34,
+    "Fare": 18,
+    "Tips": 2.67
+  },
+  {
+    "": 232,
+    "Total Trips": 3195,
+    "Trip Start Timestamp": "2021-08-21",
+    "Trip Miles": 4.78,
+    "Fare": 16.75,
+    "Tips": 2.24
+  },
+  {
+    "": 233,
+    "Total Trips": 2653,
+    "Trip Start Timestamp": "2021-08-22",
+    "Trip Miles": 8.54,
+    "Fare": 26.19,
+    "Tips": 3.91
+  },
+  {
+    "": 234,
+    "Total Trips": 3452,
+    "Trip Start Timestamp": "2021-08-23",
+    "Trip Miles": 6.4,
+    "Fare": 20.24,
+    "Tips": 3.08
+  },
+  {
+    "": 235,
+    "Total Trips": 3449,
+    "Trip Start Timestamp": "2021-08-24",
+    "Trip Miles": 4.97,
+    "Fare": 16.47,
+    "Tips": 2.5
+  },
+  {
+    "": 236,
+    "Total Trips": 3899,
+    "Trip Start Timestamp": "2021-08-25",
+    "Trip Miles": 5.43,
+    "Fare": 18.1,
+    "Tips": 2.83
+  },
+  {
+    "": 237,
+    "Total Trips": 4128,
+    "Trip Start Timestamp": "2021-08-26",
+    "Trip Miles": 5.87,
+    "Fare": 19.12,
+    "Tips": 2.89
+  },
+  {
+    "": 238,
+    "Total Trips": 4325,
+    "Trip Start Timestamp": "2021-08-27",
+    "Trip Miles": 5.16,
+    "Fare": 18.09,
+    "Tips": 2.51
+  },
+  {
+    "": 239,
+    "Total Trips": 3032,
+    "Trip Start Timestamp": "2021-08-28",
+    "Trip Miles": 4.17,
+    "Fare": 15.29,
+    "Tips": 2.11
+  },
+  {
+    "": 240,
+    "Total Trips": 2011,
+    "Trip Start Timestamp": "2021-08-29",
+    "Trip Miles": 8.89,
+    "Fare": 27.03,
+    "Tips": 4.03
+  },
+  {
+    "": 241,
+    "Total Trips": 3081,
+    "Trip Start Timestamp": "2021-08-30",
+    "Trip Miles": 6.62,
+    "Fare": 20.95,
+    "Tips": 3.26
+  },
+  {
+    "": 242,
+    "Total Trips": 3338,
+    "Trip Start Timestamp": "2021-08-31",
+    "Trip Miles": 5.02,
+    "Fare": 16.71,
+    "Tips": 2.62
+  },
+  {
+    "": 243,
+    "Total Trips": 3354,
+    "Trip Start Timestamp": "2021-09-01",
+    "Trip Miles": 4.91,
+    "Fare": 16.2,
+    "Tips": 2.56
+  },
+  {
+    "": 244,
+    "Total Trips": 4012,
+    "Trip Start Timestamp": "2021-09-02",
+    "Trip Miles": 6.31,
+    "Fare": 20.36,
+    "Tips": 3.06
+  },
+  {
+    "": 245,
+    "Total Trips": 4633,
+    "Trip Start Timestamp": "2021-09-03",
+    "Trip Miles": 5.49,
+    "Fare": 18.39,
+    "Tips": 2.67
+  },
+  {
+    "": 246,
+    "Total Trips": 3147,
+    "Trip Start Timestamp": "2021-09-04",
+    "Trip Miles": 4.32,
+    "Fare": 19.38,
+    "Tips": 2.04
+  },
+  {
+    "": 247,
+    "Total Trips": 2175,
+    "Trip Start Timestamp": "2021-09-05",
+    "Trip Miles": 5.62,
+    "Fare": 19.07,
+    "Tips": 2.49
+  },
+  {
+    "": 248,
+    "Total Trips": 2294,
+    "Trip Start Timestamp": "2021-09-06",
+    "Trip Miles": 8.77,
+    "Fare": 26.42,
+    "Tips": 3.63
+  },
+  {
+    "": 249,
+    "Total Trips": 2819,
+    "Trip Start Timestamp": "2021-09-07",
+    "Trip Miles": 5.99,
+    "Fare": 19.26,
+    "Tips": 2.72
+  },
+  {
+    "": 250,
+    "Total Trips": 3048,
+    "Trip Start Timestamp": "2021-09-08",
+    "Trip Miles": 5.54,
+    "Fare": 20.98,
+    "Tips": 2.78
+  },
+  {
+    "": 251,
+    "Total Trips": 3859,
+    "Trip Start Timestamp": "2021-09-09",
+    "Trip Miles": 5.51,
+    "Fare": 20.41,
+    "Tips": 2.71
+  },
+  {
+    "": 252,
+    "Total Trips": 4216,
+    "Trip Start Timestamp": "2021-09-10",
+    "Trip Miles": 5.55,
+    "Fare": 18.36,
+    "Tips": 2.75
+  },
+  {
+    "": 253,
+    "Total Trips": 2595,
+    "Trip Start Timestamp": "2021-09-11",
+    "Trip Miles": 4.73,
+    "Fare": 16.54,
+    "Tips": 2.34
+  },
+  {
+    "": 254,
+    "Total Trips": 2867,
+    "Trip Start Timestamp": "2021-09-12",
+    "Trip Miles": 9.18,
+    "Fare": 27.28,
+    "Tips": 4.37
+  },
+  {
+    "": 255,
+    "Total Trips": 4559,
+    "Trip Start Timestamp": "2021-09-13",
+    "Trip Miles": 6.04,
+    "Fare": 19.49,
+    "Tips": 3.17
+  },
+  {
+    "": 256,
+    "Total Trips": 4918,
+    "Trip Start Timestamp": "2021-09-14",
+    "Trip Miles": 4.98,
+    "Fare": 18.71,
+    "Tips": 2.84
+  },
+  {
+    "": 257,
+    "Total Trips": 5026,
+    "Trip Start Timestamp": "2021-09-15",
+    "Trip Miles": 5.82,
+    "Fare": 19.27,
+    "Tips": 3.09
+  },
+  {
+    "": 258,
+    "Total Trips": 5025,
+    "Trip Start Timestamp": "2021-09-16",
+    "Trip Miles": 6.51,
+    "Fare": 22.4,
+    "Tips": 3.32
+  },
+  {
+    "": 259,
+    "Total Trips": 5973,
+    "Trip Start Timestamp": "2021-09-17",
+    "Trip Miles": 5.81,
+    "Fare": 19.16,
+    "Tips": 2.96
+  },
+  {
+    "": 260,
+    "Total Trips": 3717,
+    "Trip Start Timestamp": "2021-09-18",
+    "Trip Miles": 4.83,
+    "Fare": 16.62,
+    "Tips": 2.34
+  },
+  {
+    "": 261,
+    "Total Trips": 3203,
+    "Trip Start Timestamp": "2021-09-19",
+    "Trip Miles": 8.76,
+    "Fare": 26.58,
+    "Tips": 3.9
+  },
+  {
+    "": 262,
+    "Total Trips": 3692,
+    "Trip Start Timestamp": "2021-09-20",
+    "Trip Miles": 6.45,
+    "Fare": 22.1,
+    "Tips": 3.11
+  },
+  {
+    "": 263,
+    "Total Trips": 3726,
+    "Trip Start Timestamp": "2021-09-21",
+    "Trip Miles": 5.49,
+    "Fare": 17.75,
+    "Tips": 2.9
+  },
+  {
+    "": 264,
+    "Total Trips": 4620,
+    "Trip Start Timestamp": "2021-09-22",
+    "Trip Miles": 5.54,
+    "Fare": 17.98,
+    "Tips": 2.87
+  },
+  {
+    "": 265,
+    "Total Trips": 5540,
+    "Trip Start Timestamp": "2021-09-23",
+    "Trip Miles": 5.68,
+    "Fare": 19.67,
+    "Tips": 2.95
+  },
+  {
+    "": 266,
+    "Total Trips": 6915,
+    "Trip Start Timestamp": "2021-09-24",
+    "Trip Miles": 5.73,
+    "Fare": 19.8,
+    "Tips": 2.99
+  },
+  {
+    "": 267,
+    "Total Trips": 4537,
+    "Trip Start Timestamp": "2021-09-25",
+    "Trip Miles": 4.28,
+    "Fare": 15.55,
+    "Tips": 2.28
+  },
+  {
+    "": 268,
+    "Total Trips": 2778,
+    "Trip Start Timestamp": "2021-09-26",
+    "Trip Miles": 9.02,
+    "Fare": 27.01,
+    "Tips": 4.12
+  },
+  {
+    "": 269,
+    "Total Trips": 3120,
+    "Trip Start Timestamp": "2021-09-27",
+    "Trip Miles": 6.5,
+    "Fare": 20.8,
+    "Tips": 3.17
+  },
+  {
+    "": 270,
+    "Total Trips": 3004,
+    "Trip Start Timestamp": "2021-09-28",
+    "Trip Miles": 5.09,
+    "Fare": 16.87,
+    "Tips": 2.73
+  },
+  {
+    "": 271,
+    "Total Trips": 3884,
+    "Trip Start Timestamp": "2021-09-29",
+    "Trip Miles": 5.2,
+    "Fare": 17.35,
+    "Tips": 2.81
+  },
+  {
+    "": 272,
+    "Total Trips": 4579,
+    "Trip Start Timestamp": "2021-09-30",
+    "Trip Miles": 5.04,
+    "Fare": 17.29,
+    "Tips": 2.77
+  },
+  {
+    "": 273,
+    "Total Trips": 5342,
+    "Trip Start Timestamp": "2021-10-01",
+    "Trip Miles": 5.22,
+    "Fare": 17.57,
+    "Tips": 2.71
+  },
+  {
+    "": 274,
+    "Total Trips": 3884,
+    "Trip Start Timestamp": "2021-10-02",
+    "Trip Miles": 4.53,
+    "Fare": 16.05,
+    "Tips": 2.52
+  },
+  {
+    "": 275,
+    "Total Trips": 3841,
+    "Trip Start Timestamp": "2021-10-03",
+    "Trip Miles": 7.65,
+    "Fare": 25.67,
+    "Tips": 3.87
+  },
+  {
+    "": 276,
+    "Total Trips": 4947,
+    "Trip Start Timestamp": "2021-10-04",
+    "Trip Miles": 5.57,
+    "Fare": 18.23,
+    "Tips": 3.23
+  },
+  {
+    "": 277,
+    "Total Trips": 7031,
+    "Trip Start Timestamp": "2021-10-05",
+    "Trip Miles": 5.7,
+    "Fare": 18.53,
+    "Tips": 3.37
+  },
+  {
+    "": 278,
+    "Total Trips": 6279,
+    "Trip Start Timestamp": "2021-10-06",
+    "Trip Miles": 4.92,
+    "Fare": 16.89,
+    "Tips": 2.99
+  },
+  {
+    "": 279,
+    "Total Trips": 6529,
+    "Trip Start Timestamp": "2021-10-07",
+    "Trip Miles": 5.3,
+    "Fare": 18.24,
+    "Tips": 3.02
+  },
+  {
+    "": 280,
+    "Total Trips": 7815,
+    "Trip Start Timestamp": "2021-10-08",
+    "Trip Miles": 6.41,
+    "Fare": 21.22,
+    "Tips": 3.35
+  },
+  {
+    "": 281,
+    "Total Trips": 5457,
+    "Trip Start Timestamp": "2021-10-09",
+    "Trip Miles": 4.97,
+    "Fare": 16.61,
+    "Tips": 2.42
+  },
+  {
+    "": 282,
+    "Total Trips": 2811,
+    "Trip Start Timestamp": "2021-10-10",
+    "Trip Miles": 7.94,
+    "Fare": 24.42,
+    "Tips": 3.75
+  },
+  {
+    "": 283,
+    "Total Trips": 4834,
+    "Trip Start Timestamp": "2021-10-11",
+    "Trip Miles": 6.72,
+    "Fare": 21.12,
+    "Tips": 3.27
+  },
+  {
+    "": 284,
+    "Total Trips": 5060,
+    "Trip Start Timestamp": "2021-10-12",
+    "Trip Miles": 5.47,
+    "Fare": 18.06,
+    "Tips": 2.91
+  },
+  {
+    "": 285,
+    "Total Trips": 4829,
+    "Trip Start Timestamp": "2021-10-13",
+    "Trip Miles": 4.58,
+    "Fare": 15.91,
+    "Tips": 2.62
+  },
+  {
+    "": 286,
+    "Total Trips": 5404,
+    "Trip Start Timestamp": "2021-10-14",
+    "Trip Miles": 5.57,
+    "Fare": 18.19,
+    "Tips": 2.95
+  },
+  {
+    "": 287,
+    "Total Trips": 5927,
+    "Trip Start Timestamp": "2021-10-15",
+    "Trip Miles": 5.53,
+    "Fare": 17.16,
+    "Tips": 2.69
+  },
+  {
+    "": 288,
+    "Total Trips": 4644,
+    "Trip Start Timestamp": "2021-10-16",
+    "Trip Miles": 4.61,
+    "Fare": 16.35,
+    "Tips": 2.53
+  },
+  {
+    "": 289,
+    "Total Trips": 4363,
+    "Trip Start Timestamp": "2021-10-17",
+    "Trip Miles": 7.38,
+    "Fare": 23.36,
+    "Tips": 3.7
+  },
+  {
+    "": 290,
+    "Total Trips": 5218,
+    "Trip Start Timestamp": "2021-10-18",
+    "Trip Miles": 5.62,
+    "Fare": 18.37,
+    "Tips": 3.04
+  },
+  {
+    "": 291,
+    "Total Trips": 5515,
+    "Trip Start Timestamp": "2021-10-19",
+    "Trip Miles": 4.69,
+    "Fare": 16.13,
+    "Tips": 2.82
+  },
+  {
+    "": 292,
+    "Total Trips": 5365,
+    "Trip Start Timestamp": "2021-10-20",
+    "Trip Miles": 5.91,
+    "Fare": 18.95,
+    "Tips": 3.33
+  },
+  {
+    "": 293,
+    "Total Trips": 5868,
+    "Trip Start Timestamp": "2021-10-21",
+    "Trip Miles": 5.28,
+    "Fare": 17.69,
+    "Tips": 2.96
+  },
+  {
+    "": 294,
+    "Total Trips": 6305,
+    "Trip Start Timestamp": "2021-10-22",
+    "Trip Miles": 5.4,
+    "Fare": 19.15,
+    "Tips": 2.88
+  },
+  {
+    "": 295,
+    "Total Trips": 4248,
+    "Trip Start Timestamp": "2021-10-23",
+    "Trip Miles": 4.73,
+    "Fare": 16.43,
+    "Tips": 2.52
+  },
+  {
+    "": 296,
+    "Total Trips": 3666,
+    "Trip Start Timestamp": "2021-10-24",
+    "Trip Miles": 7.28,
+    "Fare": 23.85,
+    "Tips": 3.67
+  },
+  {
+    "": 297,
+    "Total Trips": 4612,
+    "Trip Start Timestamp": "2021-10-25",
+    "Trip Miles": 5.46,
+    "Fare": 19.29,
+    "Tips": 2.96
+  },
+  {
+    "": 298,
+    "Total Trips": 4452,
+    "Trip Start Timestamp": "2021-10-26",
+    "Trip Miles": 5.1,
+    "Fare": 17.02,
+    "Tips": 2.84
+  },
+  {
+    "": 299,
+    "Total Trips": 4813,
+    "Trip Start Timestamp": "2021-10-27",
+    "Trip Miles": 5.17,
+    "Fare": 17.22,
+    "Tips": 2.88
+  },
+  {
+    "": 300,
+    "Total Trips": 5482,
+    "Trip Start Timestamp": "2021-10-28",
+    "Trip Miles": 4.56,
+    "Fare": 16.14,
+    "Tips": 2.61
+  },
+  {
+    "": 301,
+    "Total Trips": 6082,
+    "Trip Start Timestamp": "2021-10-29",
+    "Trip Miles": 4.59,
+    "Fare": 17.6,
+    "Tips": 2.49
+  },
+  {
+    "": 302,
+    "Total Trips": 3068,
+    "Trip Start Timestamp": "2021-10-30",
+    "Trip Miles": 4.05,
+    "Fare": 14.99,
+    "Tips": 2.07
+  },
+  {
+    "": 303,
+    "Total Trips": 2489,
+    "Trip Start Timestamp": "2021-10-31",
+    "Trip Miles": 6.4,
+    "Fare": 20.76,
+    "Tips": 3.25
+  },
+  {
+    "": 304,
+    "Total Trips": 4116,
+    "Trip Start Timestamp": "2021-11-01",
+    "Trip Miles": 6.3,
+    "Fare": 19.99,
+    "Tips": 3.18
+  },
+  {
+    "": 305,
+    "Total Trips": 4567,
+    "Trip Start Timestamp": "2021-11-02",
+    "Trip Miles": 4.53,
+    "Fare": 15.64,
+    "Tips": 2.62
+  },
+  {
+    "": 306,
+    "Total Trips": 5375,
+    "Trip Start Timestamp": "2021-11-03",
+    "Trip Miles": 4.38,
+    "Fare": 15.34,
+    "Tips": 2.57
+  },
+  {
+    "": 307,
+    "Total Trips": 5629,
+    "Trip Start Timestamp": "2021-11-04",
+    "Trip Miles": 4.74,
+    "Fare": 16.49,
+    "Tips": 2.71
+  },
+  {
+    "": 308,
+    "Total Trips": 5729,
+    "Trip Start Timestamp": "2021-11-05",
+    "Trip Miles": 4.74,
+    "Fare": 16.4,
+    "Tips": 2.66
+  },
+  {
+    "": 309,
+    "Total Trips": 3185,
+    "Trip Start Timestamp": "2021-11-06",
+    "Trip Miles": 3.56,
+    "Fare": 13.72,
+    "Tips": 1.99
+  },
+  {
+    "": 310,
+    "Total Trips": 2433,
+    "Trip Start Timestamp": "2021-11-07",
+    "Trip Miles": 7.67,
+    "Fare": 23.4,
+    "Tips": 3.64
+  },
+  {
+    "": 311,
+    "Total Trips": 3561,
+    "Trip Start Timestamp": "2021-11-08",
+    "Trip Miles": 5.89,
+    "Fare": 19.23,
+    "Tips": 3.11
+  },
+  {
+    "": 312,
+    "Total Trips": 3951,
+    "Trip Start Timestamp": "2021-11-09",
+    "Trip Miles": 4.58,
+    "Fare": 17.65,
+    "Tips": 2.6
+  },
+  {
+    "": 313,
+    "Total Trips": 4927,
+    "Trip Start Timestamp": "2021-11-10",
+    "Trip Miles": 5.18,
+    "Fare": 17.47,
+    "Tips": 2.9
+  },
+  {
+    "": 314,
+    "Total Trips": 5273,
+    "Trip Start Timestamp": "2021-11-11",
+    "Trip Miles": 4.54,
+    "Fare": 17.33,
+    "Tips": 2.67
+  },
+  {
+    "": 315,
+    "Total Trips": 5736,
+    "Trip Start Timestamp": "2021-11-12",
+    "Trip Miles": 4.44,
+    "Fare": 15.75,
+    "Tips": 2.46
+  },
+  {
+    "": 316,
+    "Total Trips": 3392,
+    "Trip Start Timestamp": "2021-11-13",
+    "Trip Miles": 4.31,
+    "Fare": 15.55,
+    "Tips": 2.39
+  },
+  {
+    "": 317,
+    "Total Trips": 2481,
+    "Trip Start Timestamp": "2021-11-14",
+    "Trip Miles": 8.57,
+    "Fare": 25.69,
+    "Tips": 4.09
+  },
+  {
+    "": 318,
+    "Total Trips": 4469,
+    "Trip Start Timestamp": "2021-11-15",
+    "Trip Miles": 5.71,
+    "Fare": 18.63,
+    "Tips": 3.25
+  },
+  {
+    "": 319,
+    "Total Trips": 4935,
+    "Trip Start Timestamp": "2021-11-16",
+    "Trip Miles": 4.85,
+    "Fare": 17.67,
+    "Tips": 2.75
+  },
+  {
+    "": 320,
+    "Total Trips": 5465,
+    "Trip Start Timestamp": "2021-11-17",
+    "Trip Miles": 5.11,
+    "Fare": 18.11,
+    "Tips": 2.98
+  },
+  {
+    "": 321,
+    "Total Trips": 6034,
+    "Trip Start Timestamp": "2021-11-18",
+    "Trip Miles": 4.32,
+    "Fare": 15.43,
+    "Tips": 2.55
+  },
+  {
+    "": 322,
+    "Total Trips": 6359,
+    "Trip Start Timestamp": "2021-11-19",
+    "Trip Miles": 4.42,
+    "Fare": 15.81,
+    "Tips": 2.46
+  },
+  {
+    "": 323,
+    "Total Trips": 3129,
+    "Trip Start Timestamp": "2021-11-20",
+    "Trip Miles": 4.74,
+    "Fare": 16.84,
+    "Tips": 2.53
+  },
+  {
+    "": 324,
+    "Total Trips": 2655,
+    "Trip Start Timestamp": "2021-11-21",
+    "Trip Miles": 5.59,
+    "Fare": 18.8,
+    "Tips": 2.76
+  },
+  {
+    "": 325,
+    "Total Trips": 3609,
+    "Trip Start Timestamp": "2021-11-22",
+    "Trip Miles": 3.77,
+    "Fare": 13.6,
+    "Tips": 1.85
+  },
+  {
+    "": 326,
+    "Total Trips": 3966,
+    "Trip Start Timestamp": "2021-11-23",
+    "Trip Miles": 3.76,
+    "Fare": 14.09,
+    "Tips": 1.95
+  },
+  {
+    "": 327,
+    "Total Trips": 3175,
+    "Trip Start Timestamp": "2021-11-24",
+    "Trip Miles": 3.81,
+    "Fare": 14.35,
+    "Tips": 1.92
+  },
+  {
+    "": 328,
+    "Total Trips": 903,
+    "Trip Start Timestamp": "2021-11-25",
+    "Trip Miles": 6.27,
+    "Fare": 19.98,
+    "Tips": 2.54
+  },
+  {
+    "": 329,
+    "Total Trips": 3595,
+    "Trip Start Timestamp": "2021-11-26",
+    "Trip Miles": 5.03,
+    "Fare": 17.01,
+    "Tips": 2.28
+  },
+  {
+    "": 330,
+    "Total Trips": 4836,
+    "Trip Start Timestamp": "2021-11-27",
+    "Trip Miles": 6.46,
+    "Fare": 21.57,
+    "Tips": 3.35
+  },
+  {
+    "": 331,
+    "Total Trips": 4150,
+    "Trip Start Timestamp": "2021-11-28",
+    "Trip Miles": 7.13,
+    "Fare": 24.53,
+    "Tips": 3.67
+  },
+  {
+    "": 332,
+    "Total Trips": 6329,
+    "Trip Start Timestamp": "2021-11-29",
+    "Trip Miles": 5.09,
+    "Fare": 18.28,
+    "Tips": 2.95
+  },
+  {
+    "": 333,
+    "Total Trips": 6643,
+    "Trip Start Timestamp": "2021-11-30",
+    "Trip Miles": 4.54,
+    "Fare": 15.87,
+    "Tips": 2.71
+  },
+  {
+    "": 334,
+    "Total Trips": 7055,
+    "Trip Start Timestamp": "2021-12-01",
+    "Trip Miles": 5.76,
+    "Fare": 18.58,
+    "Tips": 3.17
+  },
+  {
+    "": 335,
+    "Total Trips": 6758,
+    "Trip Start Timestamp": "2021-12-02",
+    "Trip Miles": 5.68,
+    "Fare": 20.39,
+    "Tips": 3.07
+  },
+  {
+    "": 336,
+    "Total Trips": 7136,
+    "Trip Start Timestamp": "2021-12-03",
+    "Trip Miles": 4.68,
+    "Fare": 16.83,
+    "Tips": 2.54
+  },
+  {
+    "": 337,
+    "Total Trips": 4593,
+    "Trip Start Timestamp": "2021-12-04",
+    "Trip Miles": 3.69,
+    "Fare": 14.04,
+    "Tips": 2.09
+  },
+  {
+    "": 338,
+    "Total Trips": 3534,
+    "Trip Start Timestamp": "2021-12-05",
+    "Trip Miles": 6.34,
+    "Fare": 20.51,
+    "Tips": 3.31
+  },
+  {
+    "": 339,
+    "Total Trips": 5279,
+    "Trip Start Timestamp": "2021-12-06",
+    "Trip Miles": 5.53,
+    "Fare": 19.6,
+    "Tips": 2.98
+  },
+  {
+    "": 340,
+    "Total Trips": 5340,
+    "Trip Start Timestamp": "2021-12-07",
+    "Trip Miles": 4.62,
+    "Fare": 15.78,
+    "Tips": 2.71
+  },
+  {
+    "": 341,
+    "Total Trips": 5589,
+    "Trip Start Timestamp": "2021-12-08",
+    "Trip Miles": 4.76,
+    "Fare": 16.16,
+    "Tips": 2.75
+  },
+  {
+    "": 342,
+    "Total Trips": 6261,
+    "Trip Start Timestamp": "2021-12-09",
+    "Trip Miles": 4.63,
+    "Fare": 15.98,
+    "Tips": 2.76
+  },
+  {
+    "": 343,
+    "Total Trips": 6743,
+    "Trip Start Timestamp": "2021-12-10",
+    "Trip Miles": 3.99,
+    "Fare": 16.06,
+    "Tips": 2.37
+  },
+  {
+    "": 344,
+    "Total Trips": 4228,
+    "Trip Start Timestamp": "2021-12-11",
+    "Trip Miles": 3.28,
+    "Fare": 13.01,
+    "Tips": 1.92
+  },
+  {
+    "": 345,
+    "Total Trips": 2556,
+    "Trip Start Timestamp": "2021-12-12",
+    "Trip Miles": 6.61,
+    "Fare": 21.22,
+    "Tips": 3.32
+  },
+  {
+    "": 346,
+    "Total Trips": 3805,
+    "Trip Start Timestamp": "2021-12-13",
+    "Trip Miles": 5.12,
+    "Fare": 17.14,
+    "Tips": 2.75
+  },
+  {
+    "": 347,
+    "Total Trips": 5003,
+    "Trip Start Timestamp": "2021-12-14",
+    "Trip Miles": 4.56,
+    "Fare": 18.74,
+    "Tips": 2.63
+  },
+  {
+    "": 348,
+    "Total Trips": 5668,
+    "Trip Start Timestamp": "2021-12-15",
+    "Trip Miles": 4.02,
+    "Fare": 16.19,
+    "Tips": 2.37
+  },
+  {
+    "": 349,
+    "Total Trips": 6470,
+    "Trip Start Timestamp": "2021-12-16",
+    "Trip Miles": 3.77,
+    "Fare": 13.91,
+    "Tips": 2.29
+  },
+  {
+    "": 350,
+    "Total Trips": 6398,
+    "Trip Start Timestamp": "2021-12-17",
+    "Trip Miles": 3.7,
+    "Fare": 13.79,
+    "Tips": 2.16
+  },
+  {
+    "": 351,
+    "Total Trips": 3906,
+    "Trip Start Timestamp": "2021-12-18",
+    "Trip Miles": 4.08,
+    "Fare": 14.68,
+    "Tips": 2.24
+  },
+  {
+    "": 352,
+    "Total Trips": 2060,
+    "Trip Start Timestamp": "2021-12-19",
+    "Trip Miles": 4.98,
+    "Fare": 16.9,
+    "Tips": 2.6
+  },
+  {
+    "": 353,
+    "Total Trips": 3585,
+    "Trip Start Timestamp": "2021-12-20",
+    "Trip Miles": 3.18,
+    "Fare": 13.62,
+    "Tips": 1.69
+  },
+  {
+    "": 354,
+    "Total Trips": 3258,
+    "Trip Start Timestamp": "2021-12-21",
+    "Trip Miles": 3.09,
+    "Fare": 12.1,
+    "Tips": 1.65
+  },
+  {
+    "": 355,
+    "Total Trips": 3010,
+    "Trip Start Timestamp": "2021-12-22",
+    "Trip Miles": 3.08,
+    "Fare": 12,
+    "Tips": 1.6
+  },
+  {
+    "": 356,
+    "Total Trips": 2348,
+    "Trip Start Timestamp": "2021-12-23",
+    "Trip Miles": 3.1,
+    "Fare": 12.08,
+    "Tips": 1.67
+  },
+  {
+    "": 357,
+    "Total Trips": 1044,
+    "Trip Start Timestamp": "2021-12-24",
+    "Trip Miles": 3.22,
+    "Fare": 12.86,
+    "Tips": 1.65
+  },
+  {
+    "": 358,
+    "Total Trips": 149,
+    "Trip Start Timestamp": "2021-12-25",
+    "Trip Miles": 8.3,
+    "Fare": 25.54,
+    "Tips": 2.81
+  },
+  {
+    "": 359,
+    "Total Trips": 1060,
+    "Trip Start Timestamp": "2021-12-26",
+    "Trip Miles": 6.26,
+    "Fare": 29.51,
+    "Tips": 2.46
+  },
+  {
+    "": 360,
+    "Total Trips": 2036,
+    "Trip Start Timestamp": "2021-12-27",
+    "Trip Miles": 4.21,
+    "Fare": 15,
+    "Tips": 2.01
+  },
+  {
+    "": 361,
+    "Total Trips": 2417,
+    "Trip Start Timestamp": "2021-12-28",
+    "Trip Miles": 4.01,
+    "Fare": 14.5,
+    "Tips": 1.75
+  },
+  {
+    "": 362,
+    "Total Trips": 2549,
+    "Trip Start Timestamp": "2021-12-29",
+    "Trip Miles": 3.76,
+    "Fare": 13.71,
+    "Tips": 1.8
+  },
+  {
+    "": 363,
+    "Total Trips": 2536,
+    "Trip Start Timestamp": "2021-12-30",
+    "Trip Miles": 4.16,
+    "Fare": 14.81,
+    "Tips": 1.93
+  },
+  {
+    "": 364,
+    "Total Trips": 2248,
+    "Trip Start Timestamp": "2021-12-31",
+    "Trip Miles": 4.02,
+    "Fare": 13.75,
+    "Tips": 2
+  }
+]
