@@ -1,4 +1,5 @@
 function mvp(data) {
+    // reference: https://bl.ocks.org/mbostock/34f08d5e11952a80609169b7917d4172
     var svg = d3.select("mv").append("svg"),
     margin = {top: 20, right: 20, bottom: 110, left: 40},
     margin2 = {top: 430, right: 20, bottom: 30, left: 40},
