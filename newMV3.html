@@ -14,10 +14,37 @@
   pointer-events: all;
 }
 
+.icon {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  width: 20%;
+  min-height:90px;
+  display:inline-block;
+  text-align: center;
+  color: blueviolet;
+}
+
 </style>
 <body style="background-color:antiquewhite">
     <p style="text-align: center; color: blueviolet; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 25px;"> Brushable and Zoomable Plot in March</p>
-    
+    <div style="margin:0 auto;  width: auto; height: 100px">
+        <div class="icon">
+            <a href="./project3.html">Home</a>
+        </div>
+        <div class="icon">
+            <a href="./index.html"> Previous and Spatial Plots</a>
+        </div>
+        <div class="icon">
+            <a href="./newMV6.html">Multiple Linked View 6</a>
+        </div>
+        <div class="icon">
+            <a href="./newMV9.html">Multiple Linked View 9</a>
+        </div>
+    </div>
+    <div>
+        <p style="text-align: center; color: cornflowerblue; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 25px;">
+            Q3. Distribution based on fare and timeline of taxi trips in March, June and September, when did the trips costs the most in each month? </p>
+    </div>
     <svg width="960" height="500"></svg>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script>
@@ -169,14 +196,5 @@
             The trip costs the highest fare happened on March 24th at around 03:15 PM . </p>       
     </div>
 
-    <div>
-        <a href="./index.html">Scattered and Brushable Plot in March, June, and September</a>
-        <br>
-        <br>
-        <a href="./newMV6.html">Brushable and Zoomable Plot in June</a>
-        <br>
-        <br>
-        <a href="./newMV9.html">Brushable and Zoomable Plot in September</a>
-    </div>
 </body>
 </html>
